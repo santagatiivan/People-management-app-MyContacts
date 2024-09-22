@@ -28,3 +28,5 @@ If you want to view or modify the source code of the app, you can find it in the
 ## Contributing
 
 If you would like to improve the application or report bugs, you can submit a **pull request** or open an **issue**. The source code is well organized in the `app/code` folder.
+
+![Project Preview](img/preview.jpg)
