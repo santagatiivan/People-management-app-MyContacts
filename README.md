@@ -1,6 +1,6 @@
 # People Management App
 
-**People Management App** is a desktop application developed in Python and Tkinter, designed to manage a list of people with information such as name, surname, birthdate, and phone number. This app is distributed as a standalone executable, so there's no need to install Python or additional dependencies to use it.
+**MyContacts** is a desktop application developed in Python and Tkinter, designed to manage a list of people with information such as name, surname, birthdate, and phone number. This app is distributed as a standalone executable, so there's no need to install Python or additional dependencies to use it.
 
 ## Features
 
