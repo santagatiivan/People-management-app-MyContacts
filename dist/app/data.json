@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "ID": "c56a4180-65aa-42ec-a945-5fd21dec0538",
+      "Name": "John",
+      "Surname": "Doe",
+      "Birthdate": "15/03/1985",
+      "Gender": "M",
+      "Phone Number": "123-456-7890"
+    },
+    {
+      "ID": "d7b7c212-4f02-11e9-8647-d663bd873d93",
+      "Name": "Jane",
+      "Surname": "Smith",
+      "Birthdate": "22/07/1990",
+      "Gender": "F",
+      "Phone Number": "987-654-3210"
+    },
+    {
+      "ID": "a29f4773-d10c-4b34-998c-a1036e648ebc",
+      "Name": "Michael",
+      "Surname": "Brown",
+      "Birthdate": "30/12/1975",
+      "Gender": "M",
+      "Phone Number": "555-123-4567"
+    },
+    {
+      "ID": "bb8d6e84-8f3f-40ee-b653-0f74eb4b450f",
+      "Name": "Emily",
+      "Surname": "Johnson",
+      "Birthdate": "10/06/2000",
+      "Gender": "F",
+      "Phone Number": "444-789-1234"
+    },
+    {
+      "ID": "8c7d75d2-41b2-46da-8483-706a2cdb9e70",
+      "Name": "Chris",
+      "Surname": "Davis",
+      "Birthdate": "05/05/1995",
+      "Gender": "M",
+      "Phone Number": "333-987-65435"
+    }
+  ]
+}
